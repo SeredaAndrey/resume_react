@@ -1,0 +1,800 @@
+{
+  "id": 1,
+  "name": {
+    "en": "Andrii Sereda",
+    "ua": "Андрій Середа"
+  },
+  "profesion": {
+    "en": "Front-End Developer, Hardware developer",
+    "ua": "Front-End Developer, Hardware developer"
+  },
+  "description": {
+    "en": "Full cycle of device development, microcontroller firmware, printed circuit boards of devices, design and development of radio component cases. Website development and support.",
+    "ua": "Повний цикл розробки приладів, програмування мікроконтроллерів, виготовлення друкованих плат приладів, моделювання та виготовлення на 3д принтері корпусів радіоелектронних компоннтів Розробка вебсайтів та їх підтримка."
+  },
+  "contacts": {
+    "en": [
+      {
+        "name": "telephone",
+        "shotName": "T:",
+        "title": "+3-8-067-621-00-56",
+        "href": "tel:+380676210056"
+      },
+      {
+        "name": "email",
+        "shotName": "M:",
+        "title": "a.a.sereda@ukr.net",
+        "href": "mailto:a.a.sereda@ukr.net"
+      },
+      {
+        "name": "web-site",
+        "shotName": "S:",
+        "title": "resume web site",
+        "href": "http://195.72.145.106"
+      }
+    ],
+    "ua": [
+      {
+        "name": "telephone",
+        "shotName": "T:",
+        "title": "+3-8-067-621-00-56",
+        "href": "tel:+380676210056"
+      },
+      {
+        "name": "email",
+        "shotName": "M:",
+        "title": "a.a.sereda@ukr.net",
+        "href": "mailto:a.a.sereda@ukr.net"
+      },
+      {
+        "name": "web-site",
+        "shotName": "S:",
+        "title": "web site резюме",
+        "href": "http://195.72.145.106"
+      }
+    ]
+  },
+  "experienceProject": {
+    "en": [
+      {
+        "idProject": "experienceProjectEn1",
+        "name": "Incubator control unit v5.0.4",
+        "tech": [
+          {
+            "id": "techEnId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techEnId2",
+            "name": "Arduino IDE "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/rab_prog_incubator_V5_0_4"
+      },
+      {
+        "idProject": "experienceProjectEn2",
+        "name": "Incubator control unit V6.2 mini",
+        "tech": [
+          {
+          "id": "techEnId1",
+          "name": "C++ "
+          },
+          {
+            "id": "techEnId2",
+            "name": "Arduino IDE "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/rab_prog_incubator_V6_2_mini_NOT_PID_engl"
+      },
+      {
+        "idProject": "experienceProjectEn3",
+        "name": "Underfloor heating controller v2.0 with MQTT",
+        "tech": [
+          {
+            "id": "techEnId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techEnId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techEnId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/controller_hot_flore-v2.0-with-MQTT"
+      },
+      {
+        "idProject": "experienceProjectEn4",
+        "name": "Boller controller v2.0 with MQTT",
+        "tech": [
+          {
+            "id": "techEnId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techEnId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techEnId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/controller_for_boller-v2.0-with-MQTT-and-DS18b20"
+      },
+      {
+        "idProject": "experienceProjectEn5",
+        "name": "Room temperature controller v2.0 with MQTT TM1637",
+        "tech": [
+          {
+            "id": "techEnId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techEnId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techEnId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/room-controller-v2.0-with-MQTT-DS18b20-and-TM1637"
+      },
+      {
+        "idProject": "experienceProjectEn6",
+        "name": "Room temperature controller v2.0 with MQTT OLED",
+        "tech": [
+          {
+            "id": "techEnId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techEnId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techEnId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/room_controller-v2.0-with-MQTT-DS18b20-and-OLED"
+      },
+      {
+        "idProject": "experienceProjectEn7",
+        "name": "Radiator controller v2.0 with MQTT",
+        "tech": [
+          {
+            "id": "techEnId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techEnId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techEnId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/hot-panel-v2.0-with-MQTT-with-MQTTcontroling"
+      }
+    ],
+    "ua": [
+      {
+        "idProject": "experienceProjectUa1",
+        "name": "Блок управління інкубатором v5.0.4",
+        "tech": [
+          {
+            "id": "techUaId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techUaId2",
+            "name": "Arduino IDE "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/rab_prog_incubator_V5_0_4"
+      },
+      {
+        "idProject": "experienceProjectUa2",
+        "name": "Блок управління інкубатором V6.2 mini",
+        "tech": [
+          {
+            "id": "techUaId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techUaId2",
+            "name": "Arduino IDE "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/rab_prog_incubator_V6_2_mini_NOT_PID_engl"
+      },
+      {
+        "idProject": "experienceProjectUa3",
+        "name": "Контроллер управління теплою підлогою v2.0 with MQTT",
+        "tech": [
+          {
+            "id": "techUaId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techUaId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techUaId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/controller_hot_flore-v2.0-with-MQTT"
+      },
+      {
+        "idProject": "experienceProjectUa4",
+        "name": "Контроллер управлюння котлом v2.0 with MQTT",
+        "tech": [
+          {
+            "id": "techUaId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techUaId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techUaId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/controller_for_boller-v2.0-with-MQTT-and-DS18b20"
+      },
+      {
+        "idProject": "experienceProjectUa5",
+        "name": "Кiмнатний температурний контроллер v2.0 with MQTT TM1637",
+        "tech": [
+          {
+            "id": "techUaId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techUaId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techUaId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/room-controller-v2.0-with-MQTT-DS18b20-and-TM1637"
+      },
+      {
+        "idProject": "experienceProjectUa6",
+        "name": "Кiмнатний температурний контроллер v2.0 with MQTT OLED",
+        "tech": [
+          {
+            "id": "techUaId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techUaId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techUaId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/room_controller-v2.0-with-MQTT-DS18b20-and-OLED"
+      },
+      {
+        "idProject": "experienceProjectUa7",
+        "name": "Контроллер управління радіатором опалення v2.0 with MQTT",
+        "tech": [
+          {
+            "id": "techUaId1",
+            "name": "C++ "
+          },
+          {
+            "id": "techUaId2",
+            "name": "Arduino IDE "
+          },
+          {
+            "id": "techUaId3",
+            "name": "HTML "
+          }
+        ],
+        "link": "https://github.com/SeredaAndrey/hot-panel-v2.0-with-MQTT-with-MQTTcontroling"
+      }
+    ]
+  },
+  "experienceWork": {
+    "en": [
+      {
+        "idWork": "experienceWorkEnId8",
+        "nameCompany": "LCC 'LMMP'",
+        "position": "PM. Chief Engineer Project",
+        "startDurationWork": "April 2022",
+        "endDurationWork": "up to now",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesEnId1",
+            "name": "Design team management"
+          },
+          {
+            "id": "responsibilitiesEnId2",
+            "name":"Maintenance of construction documentation"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkEnId7",
+        "nameCompany": "LCC 'DEAS Construction'",
+        "position": "Civil Engineer, Chief Engineer",
+        "startDurationWork": "August 2021",
+        "endDurationWork": "April 2022",
+        "city": "Mariupol",
+        "country": "Ukraine",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesEnId1",
+            "name":"Design team management"
+          },
+          {
+            "id": "responsibilitiesEnId2",
+            "name":"Maintenance of construction documentation"
+          },
+          {
+            "id": "responsibilitiesEnId3",
+            "name":"Company management"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkEn6",
+        "nameCompany": "LCC 'AZOVTECHGAZ'",
+        "position": "Civil engineer, designer of the POB group",
+        "startDurationWork": "July 2020",
+        "endDurationWork": "August 2021",
+        "city": "Mariupol",
+        "country": "Ukraine",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesEnId1",
+            "name":"Development of project documentation in the field of preparation for production"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkEnId5",
+        "nameCompany": "LCC 'MBK'PROMBUDSERVICE'",
+        "position": "Technical director, Director",
+        "startDurationWork": "April 2019",
+        "endDurationWork": "July 2019",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesEnId1",
+            "name":"Construction site management"
+          },
+          {
+            "id": "responsibilitiesEnId2",
+            "name":"Maintenance of construction documentation"
+          },
+          {
+            "id": "responsibilitiesEnId3",
+            "name":"Company management"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkEnId4",
+        "nameCompany": "LCC 'TONDO'",
+        "position": "Head of production and technical department",
+        "startDurationWork": "November 2010",
+        "endDurationWork": "April 2019",
+        "city": "Mariupol",
+        "country": "Ukraine",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesEnId1",
+            "name":"Conducting construction projects"
+          },
+          {
+            "id": "responsibilitiesEnId2",
+            "name":"Maintaining project documentation"
+          },
+          {
+            "id": "responsibilitiesEnId3",
+            "name":"Maintaining budget documentation"
+          },
+          {
+            "id": "responsibilitiesEnId4",
+            "name":"Department management"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkEnId3",
+        "nameCompany": "Building hypermarket OBI",
+        "position": "Head of the warehouse and product display",
+        "startDurationWork": "October 2009",
+        "endDurationWork": "September 2010",
+        "city": "Mariupol",
+        "country": "Ukraine",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesEnId1",
+            "name":"Personnel management of the product display department"
+          },
+          {
+            "id": "responsibilitiesEnId2",
+            "name":"Personnel management of the goods acceptance department"
+          },
+          {
+            "id": "responsibilitiesEnId3",
+            "name":"Maintaining warehouse documentation"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkEnId2",
+        "nameCompany": "LCC 'SAS LTD'",
+        "position": "Head of the construction site, Chief Engineer, Director",
+        "startDurationWork": "February 2003",
+        "endDurationWork": "March 2009",
+        "city": "Mariupol",
+        "country": "Ukraine",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesEnId1",
+            "name":"Construction site management"
+          },
+          {
+            "id": "responsibilitiesEnId2",
+            "name":"Maintenance of construction documentation"
+          },
+          {
+            "id": "responsibilitiesEnId3",
+            "name":"Company management"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkEnId1",
+        "nameCompany": "LCC 'MKS'",
+        "position": "Service engineer repair engineer",
+        "startDurationWork": "November 2001",
+        "endDurationWork": "February 2003",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesEnId1",
+            "name":"Repair of office equipment"
+          },
+          {
+            "id": "responsibilitiesEnId2",
+            "name":"Software installation and configuration"
+          }
+        ]
+      }
+    ],
+    "ua": [
+      {
+        "idWork": "experienceWorkUaId8",
+        "nameCompany": "ТОВ 'ЛММП'",
+        "position": "ПМ. Головний інженер проєкту",
+        "startDurationWork": "Квітень 2022",
+        "endDurationWork": "по сьогодняшній день",
+        "city": "Львів",
+        "country": "Україна",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesUaId1",
+            "name":"Керування группою конструкторів"
+          },
+          {
+            "id": "responsibilitiesUaId2",
+            "name":"Ведення проектної документації"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkUaId7",
+        "nameCompany": "ТОВ 'DEAS Construction'",
+        "position": "Інженер будівельник, Головний інженер",
+        "startDurationWork": "Серпень 2021",
+        "endDurationWork": "Квітень 2022",
+        "city": "Маріуполь",
+        "country": "Україна",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesUaId1",
+            "name":"Керування группою конструкторів"
+          },
+          {
+            "id": "responsibilitiesUaId2",
+            "name":"Ведення проектної документації"
+          },
+          {
+            "id": "responsibilitiesUaId3",
+            "name":"Управління копанією"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkUaId6",
+        "nameCompany": "ТОВ 'АЗОВТЕХГАЗ'",
+        "position": "Інженер будівельник, розробник группи ПОБ",
+        "startDurationWork": "Липень 2020",
+        "endDurationWork": "Серпень 2021",
+        "city": "Маріуполь",
+        "country": "Україна",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesUaId1",
+            "name":"Розробка проектної документації з підготовки виробництва"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkUaId5",
+        "nameCompany": "ТОВ 'МБК'ПРОМБУДСЕРВІС'",
+        "position": "Технічний директор, Директор",
+        "startDurationWork": "Квітень 2019",
+        "endDurationWork": "Липень 2019",
+        "city": "Київ",
+        "country": "Україна",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesUaId1",
+            "name":"Керівництво будівельним майданчиком"
+          },
+          {
+            "id": "responsibilitiesUaId2",
+            "name":"Ведення проектної документації"
+          },
+          {
+            "id": "responsibilitiesUaId3",
+            "name":"Управління копанією"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkUaId4",
+        "nameCompany": "ТОВ 'TONDO'",
+        "position": "Head of production and technical department",
+        "startDurationWork": "November 2010",
+        "endDurationWork": "April 2019",
+        "city": "Маріуполь",
+        "country": "Україна",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesUaId1",
+            "name":"Ведення будівельних проектів"
+          },
+          {
+            "id": "responsibilitiesUaId2",
+            "name":"Ведення проектної документації"
+          },
+          {
+            "id": "responsibilitiesUaId3",
+            "name":"Підготовка тендерної документації"
+          },
+          {
+            "id": "responsibilitiesUaId4",
+            "name":"Управління відділом"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkUaId3",
+        "nameCompany": "Будівельний гіпермаркет OBI",
+        "position": "Керівник складу та відділу викладки",
+        "startDurationWork": "Жовтень 2009",
+        "endDurationWork": "Вересень 2010",
+        "city": "Маріуполь",
+        "country": "Україна",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesUaId1",
+            "name":"Управління персоналом відділу викладки товару"
+          },
+          {
+            "id": "responsibilitiesUaId2",
+            "name":"Управління персоналом відділу приймання товарів"
+          },
+          {
+            "id": "responsibilitiesUaId3",
+            "name":"Ведення складської документації"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkUaId2",
+        "nameCompany": "ТОВ 'SAS LTD'",
+        "position": "Начальник будівельної дільниці, головний інженер, директор",
+        "startDurationWork": "Лютий 2003",
+        "endDurationWork": "Березень 2009",
+        "city": "Маріуполь",
+        "country": "Україна",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesUaId1",
+            "name":"Керівництво будівельним майданчиком"
+          },
+          {
+            "id": "responsibilitiesUaId2",
+            "name":"Ведення проектної документації"
+          },
+          {
+            "id": "responsibilitiesUaId3",
+            "name":"Управління копанією"
+          }
+        ]
+      },
+      {
+        "idWork": "experienceWorkUaId1",
+        "nameCompany": "ТОВ 'MKS'",
+        "position": "Інженер сервісного центру",
+        "startDurationWork": "Листопад 2001",
+        "endDurationWork": "Лютий 2003",
+        "city": "Харків",
+        "country": "Україна",
+        "responsibilities": [
+          {
+            "id": "responsibilitiesUaId1",
+            "name":"Ремонт офісної техніки"
+          },
+          {
+            "id": "responsibilitiesUaId2",
+            "name":"Встановлення та налаштування програмного забезпечення"
+          }
+        ]
+      }
+    ]
+  },
+  "education": {
+    "en": [
+      {
+        "idEducations": "educationEnId1",
+        "name": "Priasov State Technical University (PSTU)",
+        "profession": "Сivil engineer, industrial civil engineering",
+        "startDurationEdu": "September 1996",
+        "endDurationEdu": "June 2002",
+        "country": "Ukraine",
+        "city": "Mariupol"
+      },
+      {
+        "idEducations": "educationEnId2",
+        "name": "EDU.GENIUS.SPACE",
+        "profession": "profession Project manager 10.0",
+        "startDurationEdu": "May 2022",
+        "endDurationEdu": "June 2022",
+        "country": "Ukraine",
+        "city": "Lviv"
+      },
+      {
+        "idEducations": "educationEnId3",
+        "name": "GoIT",
+        "profession": "Full stack developer. HTML+CSS 1.0",
+        "startDurationEdu": "June 2022",
+        "endDurationEdu": "August 2022",
+        "country": "Ukraine",
+        "city": "Lviv"
+      },
+      {
+        "idEducations": "educationEnId4",
+        "name": "GoIT",
+        "profession": "Full stack developer. JavaScript 2.0",
+        "startDurationEdu": "August 2022",
+        "endDurationEdu": "November 2022",
+        "country": "Ukraine",
+        "city": "Lviv"
+      }
+    ],
+    "ua": [
+      {
+        "idEducations": "educationUaId1",
+        "name": "Прифзовський технічний державний універсітет (ПДТУ)",
+        "profession": "Промислове та цивільне будівництво",
+        "startDurationEdu": "Вересень 1996",
+        "endDurationEdu": "Червень 2002",
+        "country": "Україна",
+        "city": "Маріуполь"
+      },
+      {
+        "idEducations": "educationUaId2",
+        "name": "EDU.GENIUS.SPACE",
+        "profession": "profession Project manager 10.0",
+        "startDurationEdu": "Травня 2022",
+        "endDurationEdu": "Червень 2022",
+        "country": "Україна",
+        "city": "Львів"
+      },
+      {
+        "idEducations": "educationUaId3",
+        "name": "GoIT",
+        "profession": "Full stack developer. HTML+CSS 1.0",
+        "startDurationEdu": "Червень 2022",
+        "endDurationEdu": "Серпень 2022",
+        "country": "Україна",
+        "city": "Львів"
+      },
+      {
+        "idEducations": "educationUaId4",
+        "name": "GoIT",
+        "profession": "Full stack developer. JavaScript 2.0",
+        "startDurationEdu": "Серпень 2022",
+        "endDurationEdu": "Листопад 2022",
+        "country": "Україна",
+        "city": "Львів"
+      }
+    ]
+  },
+  "skils": {
+    "tech": {
+      "en": [
+        "HTML, CSS (SCSS)",
+        "GIT",
+        "WebPack, Parcel",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "C++ (Arduino IDE)",
+        "Spring Layout",
+        "Simplify3D, RepetierHost",
+        "AutoCAD, Inventor"
+      ],
+      "ua": [
+        "HTML, CSS (SCSS)",
+        "GIT",
+        "WebPack, Parcel",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "C++ (Arduino IDE)",
+        "Spring Layout",
+        "Simplify3D, RepetierHost",
+        "AutoCAD, Inventor"
+      ]
+    },
+    "soft": {
+      "en": [
+        {
+        "id": "softskilsEnId1",
+        "name": "Scrum"
+      },
+        {
+          "id": "softskilsEnId2",
+          "name": "GTD"
+        },
+        {
+          "id": "softskilsEnId3",
+          "name": "Teamwork"
+        }
+      ],
+      "ua": [
+        {
+          "id": "softskilsEnId1",
+          "name": "Scrum"
+        },
+        {
+          "id": "softskilsEnId2",
+          "name": "GTD"
+        },
+        {
+          "id": "softskilsEnId3",
+          "name": "Teamwork"
+        }
+      ]
+    }
+  }
+}
+
